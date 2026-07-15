@@ -27,11 +27,8 @@ student-marks-predictor/
 │── README.md
 
 ## ▶️ How to Run
+https://student-marks-predictor-ml.streamlit.app/
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## 📈 Machine Learning Model
 - Algorithm: Linear Regression
